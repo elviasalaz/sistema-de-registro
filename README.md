@@ -4,3 +4,5 @@
 
 Para ejecutar el sistema debes poner:
 ```npm install react```
+
+Se sube un archivo de prueba desde el computador
